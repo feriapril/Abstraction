@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tUfstgr95gFtUNhEfo+dSbPE+rA0SLL9hzIxWVIw6dnj1xMU8YPUBZJM1YjI88NaAdRuWBFqOxBiB/oPNdp3IA==",
+  "success": true,
+  "projectFilePath": "E:\\Tugas\\Project\\Pemrograman\\19.11.2890\\Abstraction\\Abstraction\\Abstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\feria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
